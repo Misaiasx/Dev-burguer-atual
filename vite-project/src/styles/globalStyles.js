@@ -1,4 +1,4 @@
-import {creteGlobalStyle} from 'styled-components';
+import {creteGlobalStyle} from styled-components;
 
 const globalStyles = creteGlobalStyle `
 
